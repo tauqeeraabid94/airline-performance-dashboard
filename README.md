@@ -163,4 +163,5 @@ Through this project, I learned:
 This project demonstrates how Power BI can be used to create enterprise-grade airline analytics dashboards with a clean modern interface and powerful business insights.
 
 
-![Dashboard Preview]([dashboard-preview.png](https://github.com/tauqeeraabid94/airline-performance-dashboard/blob/main/airline-performance-dashboard.png))
+![Dashboard Preview]([dashboard-preview.png]
+(https://github.com/tauqeeraabid94/airline-performance-dashboard/blob/main/airline-performance-dashboard.png)
